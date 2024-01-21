@@ -32,8 +32,6 @@ The database consists of eight tables which are described in detail below.
 
 8.	Access details Table:
 	This table was created to store the login and logout time of system users. This table has unique id called as access id.
- 
-![image](https://github.com/Deshan-Vimukthi/UniversityExamRegistration/assets/121508336/ff678621-71ff-40b1-825b-0b8c8e0ec20e)
 
 
 ----------------------------------------------------------
@@ -41,14 +39,12 @@ Assumptions
 ----------------------------------------------------------
 
 •	Every Employee ID has Permission to modify the system.
+
 •	Dropped data row doesn’t store as ledger.
+
 •	Every Student can enrol into any course.
 
-----------------------------------------------------------
-Relation Schema
-----------------------------------------------------------
 
-![image](https://github.com/Deshan-Vimukthi/UniversityExamRegistration/assets/121508336/1c839c86-0535-4ee8-9379-00a6d38adf5d)
 
 
 
